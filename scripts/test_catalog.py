@@ -5,9 +5,12 @@ BOOK = dict(id='physics-12', title='Example book', author='Example author', subj
 class CatalogueTests(unittest.TestCase):
     def test_empty(self): self.assertEqual(validate(dict(version=1,books=[])),0)
     def test_multiple_years(self): self.assertEqual(validate(dict(version=1,books=[BOOK])),1)
+    def test_primary_years_and_unspecified(self):
+        for years in ([1],[3,4,5,6],[]):
+            self.assertEqual(validate(dict(version=1,books=[{**BOOK,'years':years}])),1)
     def test_duplicates(self):
         with self.assertRaises(ValueError): validate(dict(version=1,books=[BOOK,BOOK]))
     def test_unsafe_url_and_invalid_year(self):
-        for change in (dict(url='javascript:alert(1)'),dict(url='https://user:password@example.com/book'),dict(years=[13]),dict(years=[True]),dict(title='')):
+        for change in (dict(url='javascript:alert(1)'),dict(url='https://user:password@example.com/book'),dict(years=[13]),dict(years=[0]),dict(years=[True]),dict(title='')):
             with self.assertRaises(ValueError): validate(dict(version=1,books=[{**BOOK,**change}]))
 if __name__=='__main__': unittest.main()
