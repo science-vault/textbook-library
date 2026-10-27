@@ -14,8 +14,8 @@ def validate(value):
             raise ValueError('Duplicate textbook ID: ' + book['id'])
         ids.add(book['id'])
         years = book.get('years')
-        if not isinstance(years, list) or not years or any(type(y) is not int or y not in range(7, 13) for y in years):
-            raise ValueError('Years must be integers from 7 to 12')
+        if not isinstance(years, list) or any(type(y) is not int or y not in range(1, 13) for y in years):
+            raise ValueError('Years must be integers from 1 to 12; use an empty list when unspecified')
         for key in ('url', 'cover'):
             if not book.get(key):
                 continue
