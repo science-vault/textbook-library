@@ -1,4 +1,606 @@
 {
   "version": 1,
-  "books": []
+  "books": [
+    {
+      "id": "physics-705ca22020be",
+      "title": "Heinemann Physics 11 — VCE Units 1 & 2",
+      "author": "Greg Moran and contributors",
+      "edition": "4th edition · 2016",
+      "publisher": "Pearson Australia",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2011/2016-heinemann-units-1-2.pdf",
+      "sourcePath": "Physics/Year 11/2016-heinemann-units-1-2.pdf",
+      "description": "Textbook. 719 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "cover": "https://ssrc.com.au/cdn/shop/files/heinemannphysics11.jpg?v=1751929719&width=823",
+      "isbn": "9781488611261"
+    },
+    {
+      "id": "physics-692abbb1fd77",
+      "title": "Jacaranda Physics 1 — VCE Units 1 & 2",
+      "author": "Dan O’Keeffe and contributors",
+      "edition": "2016",
+      "publisher": "John Wiley & Sons Australia",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2011/2016-jacaranda-units-1-2.pdf",
+      "sourcePath": "Physics/Year 11/2016-jacaranda-units-1-2.pdf",
+      "description": "Textbook. 365 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "coverSource": "Uploaded PDF cover or title page",
+      "isbn": "9780730327554"
+    },
+    {
+      "id": "physics-645cd7814d4e",
+      "title": "Edrolo VCE Physics — Units 1 & 2",
+      "author": "Al Harkness and contributors",
+      "edition": "2020 upload",
+      "publisher": "Edrolo",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2011/2020-edrolo-units-1-2.pdf",
+      "sourcePath": "Physics/Year 11/2020-edrolo-units-1-2.pdf",
+      "description": "Textbook. 527 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-ac5668e637f8",
+      "title": "Edrolo VCE Physics — Units 1 & 2",
+      "author": "Jason Wallace and contributors",
+      "edition": "2023",
+      "publisher": "Edrolo",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2011/2023-edrolo-units-1-2.pdf",
+      "sourcePath": "Physics/Year 11/2023-edrolo-units-1-2.pdf",
+      "description": "Textbook. 620 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "cover": "https://assets-global.website-files.com/627de075d13efa35c4a1722f/63e5bcd61ce114546e9065dc_M23_Physics-1_2-Cover_Mockup.png"
+    },
+    {
+      "id": "physics-3212362b922f",
+      "title": "Jacaranda Physics 1 — VCE Units 1 & 2",
+      "author": "Michael Rosenbrock and contributors",
+      "edition": "5th edition · 2023",
+      "publisher": "John Wiley & Sons Australia",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2011/2023-jacaranda-units-1-2.pdf",
+      "sourcePath": "Physics/Year 11/2023-jacaranda-units-1-2.pdf",
+      "description": "Textbook. 650 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "cover": "https://images.thenile.io/r1000/9781119887898.jpg",
+      "isbn": "9781119887898"
+    },
+    {
+      "id": "physics-3ae3fa62a865",
+      "title": "National Physics — Physics Calculations",
+      "author": "Don Humphrey",
+      "edition": "Edition not specified",
+      "publisher": "Science Press",
+      "format": "Practice book",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2011/National%20Physics%20Physics%20Calculations.pdf",
+      "sourcePath": "Physics/Year 11/National Physics Physics Calculations.pdf",
+      "description": "Practice book. 116 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-225d36c8a0f0",
+      "title": "Pearson Physics 11 — Western Australia",
+      "author": "Pearson author team",
+      "edition": "2018",
+      "publisher": "Pearson Australia",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2011/Pearson%20Physics%2011.pdf",
+      "sourcePath": "Physics/Year 11/Pearson Physics 11.pdf",
+      "description": "Textbook. 462 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page",
+      "isbn": "9781488617713"
+    },
+    {
+      "id": "physics-92cccfa62f8d",
+      "title": "Q&A National Physics — Unit 1: Thermal, Nuclear and Electrical Physics",
+      "author": "Brian Shadwick",
+      "edition": "Edition not specified",
+      "publisher": "Science Press",
+      "format": "Practice book",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2011/Q%26A%20National%20Physics%20Unit%201.pdf",
+      "sourcePath": "Physics/Year 11/Q&A National Physics Unit 1.pdf",
+      "description": "Practice book. 164 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-47c380aba239",
+      "title": "STAWA Exploring Physics — Stage 2 Solutions",
+      "author": "STAWA",
+      "edition": "Stage 2",
+      "publisher": "STAWA",
+      "format": "Worked solutions",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2011/STAWA_Physics_Stage_2_Solutions.pdf",
+      "sourcePath": "Physics/Year 11/STAWA_Physics_Stage_2_Solutions.pdf",
+      "description": "Worked solutions. 62 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-87696406b09d",
+      "title": "Heinemann Physics Content and Contexts — Units 2A & 2B",
+      "author": "Jeff Cahill and contributors",
+      "edition": "Units 2A & 2B",
+      "publisher": "Heinemann",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2011/heinemann%20physics%20textbook.pdf",
+      "sourcePath": "Physics/Year 11/heinemann physics textbook.pdf",
+      "description": "Textbook. 343 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-2de8fc3c6c87",
+      "title": "Heinemann Physics 12 — Units 3 & 4 Solutions",
+      "author": "Pearson author team",
+      "edition": "4th edition · 2017",
+      "publisher": "Pearson Australia",
+      "format": "Worked solutions",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2017-heinemann-units-3-4-solutions.pdf",
+      "sourcePath": "Physics/Year 12/2017-heinemann-units-3-4-solutions.pdf",
+      "description": "Worked solutions. 162 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-cef6adadfa27",
+      "title": "Heinemann Physics 12 — VCE Units 3 & 4",
+      "author": "Doug Bail, Greg Moran and contributors",
+      "edition": "4th edition · 2017",
+      "publisher": "Pearson Australia",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2017-heinemann-units-3-4.pdf",
+      "sourcePath": "Physics/Year 12/2017-heinemann-units-3-4.pdf",
+      "description": "Textbook. 420 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "coverSource": "Uploaded PDF cover or title page",
+      "isbn": "9781488611278"
+    },
+    {
+      "id": "physics-f96a5147e4fb",
+      "title": "Jacaranda Physics 2 — VCE Units 3 & 4",
+      "author": "Dan O’Keeffe and contributors",
+      "edition": "2017 upload",
+      "publisher": "John Wiley & Sons Australia",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2017-jacaranda-units-3-4.pdf",
+      "sourcePath": "Physics/Year 12/2017-jacaranda-units-3-4.pdf",
+      "description": "Textbook. 394 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-549f203c4e9e",
+      "title": "ATAR Notes Physics — Units 3 & 4",
+      "author": "Albert Wang",
+      "edition": "Edition 2 · 2017–2021 study design",
+      "publisher": "ATAR Notes",
+      "format": "Revision guide",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2018-atar-notes-units-3-4.pdf",
+      "sourcePath": "Physics/Year 12/2018-atar-notes-units-3-4.pdf",
+      "description": "Revision guide. 78 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-a960533cafad",
+      "title": "Edrolo VCE Physics — Units 3 & 4",
+      "author": "Al Harkness and contributors",
+      "edition": "2nd edition · 2020 upload",
+      "publisher": "Edrolo",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2020-edrolo-units-3-4.pdf",
+      "sourcePath": "Physics/Year 12/2020-edrolo-units-3-4.pdf",
+      "description": "Textbook. 536 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-b24f8e8e638d",
+      "title": "Cambridge Senior Science Physics — VCE Units 3 & 4",
+      "author": "Eddy de Jong and contributors",
+      "edition": "2023",
+      "publisher": "Cambridge University Press & Assessment",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2023-cambridge-units-3-4.pdf",
+      "sourcePath": "Physics/Year 12/2023-cambridge-units-3-4.pdf",
+      "description": "Textbook. 521 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "coverSource": "Uploaded PDF cover or title page",
+      "isbn": "9781009259019"
+    },
+    {
+      "id": "physics-60949d0bd074",
+      "title": "Edrolo VCE Physics — Units 3 & 4",
+      "author": "Al Harkness and contributors",
+      "edition": "2nd edition, revised 2020 · 2023 upload",
+      "publisher": "Edrolo",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2023-edrolo-units-3-4.pdf",
+      "sourcePath": "Physics/Year 12/2023-edrolo-units-3-4.pdf",
+      "description": "Textbook. 536 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus. The filename says 2023, but the copyright page identifies the revised 2020 second edition.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-b876108be7fa",
+      "title": "Cambridge Checkpoints VCE Physics — Units 3 & 4",
+      "author": "Eddy de Jong and Sydney Boydell",
+      "edition": "2024",
+      "publisher": "Cambridge University Press & Assessment",
+      "format": "Revision guide",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2024-cambridge-checkpoints-units-3-4.pdf",
+      "sourcePath": "Physics/Year 12/2024-cambridge-checkpoints-units-3-4.pdf",
+      "description": "Revision guide. 1271 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-f9afd0a50793",
+      "title": "Edrolo VCE Physics — Units 3 & 4",
+      "author": "Anthony Pedrana and contributors",
+      "edition": "2024",
+      "publisher": "Edrolo",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2024-edrolo-units-3-4.pdf",
+      "sourcePath": "Physics/Year 12/2024-edrolo-units-3-4.pdf",
+      "description": "Textbook. 747 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-8899b9297605",
+      "title": "Heinemann Physics 12 — Units 3 & 4 Solutions",
+      "author": "Pearson author team",
+      "edition": "5th edition · 2024 upload",
+      "publisher": "Pearson Australia",
+      "format": "Worked solutions",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2024-heinemann-units-3-4-solutions.pdf",
+      "sourcePath": "Physics/Year 12/2024-heinemann-units-3-4-solutions.pdf",
+      "description": "Worked solutions. 173 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-cd007828c065",
+      "title": "Jacaranda Physics 2 — Units 3 & 4 Solutions",
+      "author": "Jacaranda author team",
+      "edition": "2024 upload",
+      "publisher": "John Wiley & Sons Australia",
+      "format": "Worked solutions",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2024-jacaranda-units-3-4-solutions.pdf",
+      "sourcePath": "Physics/Year 12/2024-jacaranda-units-3-4-solutions.pdf",
+      "description": "Worked solutions. 158 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-41e9c4be6460",
+      "title": "Jacaranda Physics 2 — VCE Units 3 & 4",
+      "author": "Murray Anderson and contributors",
+      "edition": "5th edition · 2024",
+      "publisher": "John Wiley & Sons Australia",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/2024-jacaranda-units-3-4.pdf",
+      "sourcePath": "Physics/Year 12/2024-jacaranda-units-3-4.pdf",
+      "description": "Textbook. 811 PDF pages. VCE resource; use alongside the relevant Western Australian syllabus.",
+      "cover": "https://images.thenile.io/r1000/9781119888338.jpg",
+      "isbn": "9781119888338"
+    },
+    {
+      "id": "physics-cfaebf6a1e07",
+      "title": "Physics: Principles with Applications",
+      "author": "Douglas C. Giancoli",
+      "edition": "7th edition · Global edition",
+      "publisher": "Pearson",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/Douglas%20Giancoli%20-%20Physics%20Principles%20with%20Applications%2C%20Global%20Edition%20%282015%2C%20Pearson%20Education%20Limited%29%20-%20libgen.lc.pdf",
+      "sourcePath": "Physics/Year 12/Douglas Giancoli - Physics Principles with Applications, Global Edition (2015, Pearson Education Limited) - libgen.lc.pdf",
+      "description": "Textbook. 1079 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page",
+      "isbn": "9781292057125"
+    },
+    {
+      "id": "physics-1a3cd8b4a06b",
+      "title": "Pearson Physics 12 — Western Australia",
+      "author": "Greg Moran and contributors",
+      "edition": "2018",
+      "publisher": "Pearson Australia",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/Pearson%20-%20Physics%20-%20Year%2012.pdf",
+      "sourcePath": "Physics/Year 12/Pearson - Physics - Year 12.pdf",
+      "description": "Textbook. 483 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page",
+      "isbn": "9781488613579"
+    },
+    {
+      "id": "physics-ae1f77beb64b",
+      "title": "Pearson Physics 12 — Western Australia Worked Solutions",
+      "author": "Pearson author team",
+      "edition": "2017 copyright",
+      "publisher": "Pearson Australia",
+      "format": "Worked solutions",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/Pearson%20Physics%2012%20Worked%20Solutions.pdf",
+      "sourcePath": "Physics/Year 12/Pearson Physics 12 Worked Solutions.pdf",
+      "description": "Worked solutions. 148 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-637b55bcc90d",
+      "title": "STAWA Exploring Physics Year 12 — Worked Solutions",
+      "author": "STAWA and collaborating teachers",
+      "edition": "Uploaded version A",
+      "publisher": "STAWA",
+      "format": "Worked solutions",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/Physics%20STAWA%20Year%2012%20Solutions.pdf",
+      "sourcePath": "Physics/Year 12/Physics STAWA Year 12 Solutions.pdf",
+      "description": "Worked solutions. 115 PDF pages. Uploaded Physics resource. Kept as a separate uploaded version; page counts differ.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-9f0ff51f599d",
+      "title": "Q&A National Physics — Unit 3: Gravity and Electromagnetism",
+      "author": "Brian Shadwick",
+      "edition": "Edition not specified",
+      "publisher": "Science Press",
+      "format": "Practice book",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/Q%26A%20National%20Physics%20Unit%203.pdf",
+      "sourcePath": "Physics/Year 12/Q&A National Physics Unit 3.pdf",
+      "description": "Practice book. 156 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-7c01074a9006",
+      "title": "Q&A National Physics — Unit 4: Revolutions in Modern Physics",
+      "author": "Brian Shadwick",
+      "edition": "Edition not specified",
+      "publisher": "Science Press",
+      "format": "Practice book",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/Q%26A%20National%20Physics%20Unit%204.pdf",
+      "sourcePath": "Physics/Year 12/Q&A National Physics Unit 4.pdf",
+      "description": "Practice book. 144 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-20f759f24dc5",
+      "title": "STAWA Exploring Physics — Year 12",
+      "author": "George Przywolnik, Geoff Lewis and contributors",
+      "edition": "ATAR course",
+      "publisher": "STAWA",
+      "format": "Textbook",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/STAWA%20Exploring%20Physics%20Year%2012.pdf",
+      "sourcePath": "Physics/Year 12/STAWA Exploring Physics Year 12.pdf",
+      "description": "Textbook. 213 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-fd93b11d4f65",
+      "title": "STAWA Exploring Physics Year 12 — Worked Solutions",
+      "author": "STAWA and collaborating teachers",
+      "edition": "2016 · Uploaded version B",
+      "publisher": "STAWA",
+      "format": "Worked solutions",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/STAWA-Physics-Worked-Solutions.pdf",
+      "sourcePath": "Physics/Year 12/STAWA-Physics-Worked-Solutions.pdf",
+      "description": "Worked solutions. 115 PDF pages. Uploaded Physics resource. Kept as a separate uploaded version; page counts differ.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-c204e9276888",
+      "title": "WACE Study Guide Physics — Year 12 ATAR Course",
+      "author": "Michael Lucarelli",
+      "edition": "Edition not specified",
+      "publisher": "Academic Associates",
+      "format": "Revision guide",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/WA_ATAR_Course_Study_Physics_Year_12_ATF.pdf.pdf",
+      "sourcePath": "Physics/Year 12/WA_ATAR_Course_Study_Physics_Year_12_ATF.pdf.pdf",
+      "description": "Revision guide. 275 PDF pages. Uploaded Physics resource.",
+      "coverSource": "Uploaded PDF cover or title page"
+    },
+    {
+      "id": "physics-f77fb208f44a",
+      "title": "Heinemann Physics — Unit 3A Worked Solutions",
+      "author": "Heinemann author team",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "edition": "Unit 3A",
+      "format": "Worked solutions · DOCX",
+      "publisher": "Heinemann",
+      "added": "2026-10-27",
+      "description": "Uploaded Word document containing worked solutions. Opens as an original document.",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/Heinemann%20solutions%203A.docx",
+      "sourcePath": "Physics/Year 12/Heinemann solutions 3A.docx"
+    },
+    {
+      "id": "physics-76c1013bf97d",
+      "title": "Heinemann Physics — Unit 3B Worked Solutions",
+      "author": "Heinemann author team",
+      "subject": "Physics",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "edition": "Unit 3B",
+      "format": "Worked solutions · DOCX",
+      "publisher": "Heinemann",
+      "added": "2026-10-27",
+      "description": "Uploaded Word document containing worked solutions. Opens as an original document.",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/Heinemann%20solutions%203B.docx",
+      "sourcePath": "Physics/Year 12/Heinemann solutions 3B.docx"
+    }
+  ]
 }
