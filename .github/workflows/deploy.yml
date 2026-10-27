@@ -18,6 +18,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            site
+            scripts
       - name: Validate catalogue and behaviour
         run: |
           python3 scripts/validate.py
