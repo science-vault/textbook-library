@@ -601,6 +601,226 @@
       "description": "Uploaded Word document containing worked solutions. Opens as an original document.",
       "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Physics/Year%2012/Heinemann%20solutions%203B.docx",
       "sourcePath": "Physics/Year 12/Heinemann solutions 3B.docx"
+    },
+    {
+      "id": "biology-dff6f458db10",
+      "title": "Biology WA ATAR — Units 3 & 4 Student Book Answers",
+      "author": "Nelson author team",
+      "edition": "2020 copyright",
+      "publisher": "Cengage Learning Australia",
+      "format": "Student book answers",
+      "subject": "Biology",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Biology/Biology_WA_ATAR_34.pdf",
+      "sourcePath": "Biology/Biology_WA_ATAR_34.pdf",
+      "description": "Student book answers. 133 PDF pages. Contains student-book answers, rather than the complete textbook.",
+      "coverSource": "Uploaded PDF cover or first page"
+    },
+    {
+      "id": "chemistry-c3ec361e1be8",
+      "title": "Pearson Chemistry 11 — Western Australia",
+      "author": "Geoff Quinton and contributors",
+      "edition": "2018",
+      "publisher": "Pearson Australia",
+      "format": "Textbook",
+      "subject": "Chemistry",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Chemistry/Year%2011/Pearson%20-%20Chemistry%20-%20Year%2011.pdf",
+      "sourcePath": "Chemistry/Year 11/Pearson - Chemistry - Year 11.pdf",
+      "description": "Textbook. 584 PDF pages.",
+      "isbn": "9781488617720",
+      "coverSource": "Uploaded PDF cover or first page"
+    },
+    {
+      "id": "chemistry-336d4ca3e99c",
+      "title": "Creelman Exam Questions — Chemistry Year 12",
+      "author": "Lyndon Smith",
+      "edition": "2018",
+      "publisher": "Academic Task Force",
+      "format": "Exam revision book",
+      "subject": "Chemistry",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Chemistry/Year%2012/Creelman%20%282018%29%20-%20Chemistry%20-%20Year%2012.pdf",
+      "sourcePath": "Chemistry/Year 12/Creelman (2018) - Chemistry - Year 12.pdf",
+      "description": "Exam revision book. 261 PDF pages.",
+      "coverSource": "Uploaded PDF cover or first page"
+    },
+    {
+      "id": "chemistry-f1f657277f5d",
+      "title": "Pearson Chemistry 12 — Western Australia",
+      "author": "Geoff Quinton and contributors",
+      "edition": "2018",
+      "publisher": "Pearson Australia",
+      "format": "Textbook",
+      "subject": "Chemistry",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Chemistry/Year%2012/Pearson%20-%20Chemistry%20-%20Year%2012-compressed.pdf",
+      "sourcePath": "Chemistry/Year 12/Pearson - Chemistry - Year 12-compressed.pdf",
+      "description": "Textbook. 643 PDF pages.",
+      "isbn": "9781488617737",
+      "coverSource": "Uploaded PDF cover or first page"
+    },
+    {
+      "id": "chemistry-186d94c52bfd",
+      "title": "STAWA Exploring Chemistry — Year 12",
+      "author": "STAWA",
+      "edition": "ATAR course",
+      "publisher": "STAWA",
+      "format": "Textbook and practical workbook",
+      "subject": "Chemistry",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Chemistry/Year%2012/STAWA%20-%20Chemistry%20-%20Year%2012.pdf",
+      "sourcePath": "Chemistry/Year 12/STAWA - Chemistry - Year 12.pdf",
+      "description": "Textbook and practical workbook. 251 PDF pages.",
+      "cover": "https://static.winc.com.au/pi/44/46e6872e39a9f72addb82962c6e754b529e035-680768/lgsq.jpg",
+      "coverSource": "Matching Year 12 cover from Winc listing"
+    },
+    {
+      "id": "chemistry-71730e3aaa9b",
+      "title": "STAWA Exploring Chemistry Year 12 — Worked Solutions",
+      "author": "STAWA and collaborating teachers",
+      "edition": "2016 copyright",
+      "publisher": "STAWA",
+      "format": "Worked solutions",
+      "subject": "Chemistry",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Chemistry/Year%2012/STAWA%20Worked%20Solutions%20-%20Chemistry%20-%20Year%2012.pdf",
+      "sourcePath": "Chemistry/Year 12/STAWA Worked Solutions - Chemistry - Year 12.pdf",
+      "description": "Worked solutions. 41 PDF pages.",
+      "coverSource": "Uploaded PDF cover or first page"
+    },
+    {
+      "id": "human-biology-b237b15d2bb7",
+      "title": "Human Biological Science — HBS 2A & 2B Revision Booklet",
+      "author": "C. Bowden and S. Gilbert",
+      "edition": "Units 2A & 2B",
+      "publisher": "Marron Publications",
+      "format": "Revision booklet",
+      "subject": "Human Biology",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Human%20Biology/Year%2011/Marron%20Publications%20HBS%202A2B%20Revision%20Book.pdf",
+      "sourcePath": "Human Biology/Year 11/Marron Publications HBS 2A2B Revision Book.pdf",
+      "description": "Revision booklet. 81 PDF pages. Legacy Units 2A and 2B terminology; filed under Year 11 as uploaded.",
+      "coverSource": "Uploaded PDF cover or first page"
+    },
+    {
+      "id": "human-biology-3a4deb7c90d4",
+      "title": "Surfing WACE Human Biology — Unit 1: The Functioning Human Body",
+      "author": "Kerri Humphreys",
+      "edition": "2017",
+      "publisher": "Science Press",
+      "format": "Study and practice book",
+      "subject": "Human Biology",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Human%20Biology/Year%2011/WACE%20Unit%201%20The%20Functioning%20Human%20Body%20Surfing.pdf",
+      "sourcePath": "Human Biology/Year 11/WACE Unit 1 The Functioning Human Body Surfing.pdf",
+      "description": "Study and practice book. 176 PDF pages.",
+      "coverSource": "Uploaded PDF cover or first page"
+    },
+    {
+      "id": "human-biology-306a40648e2b",
+      "title": "Surfing WACE Human Biology — Unit 2: Reproduction and Inheritance",
+      "author": "Kerri Humphreys",
+      "edition": "2017",
+      "publisher": "Science Press",
+      "format": "Study and practice book",
+      "subject": "Human Biology",
+      "subjectGroup": "Science",
+      "years": [
+        11
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Human%20Biology/Year%2011/WACE%20Unit%202%20Reproduction%20%26%20Inheritance%20Surfing.pdf",
+      "sourcePath": "Human Biology/Year 11/WACE Unit 2 Reproduction & Inheritance Surfing.pdf",
+      "description": "Study and practice book. 162 PDF pages.",
+      "coverSource": "Uploaded PDF cover or first page"
+    },
+    {
+      "id": "human-biology-039f9f934576",
+      "title": "Human Perspectives — ATAR Units 3 & 4 (Uncorrected Page Proofs)",
+      "author": "T. J. Newton, A. P. Joyce and R. A. Human",
+      "edition": "8th edition · Uncorrected page proofs",
+      "publisher": "Cengage Learning Australia",
+      "format": "Textbook · Uncorrected page proofs",
+      "subject": "Human Biology",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Human%20Biology/Year%2012/Human%20Perspectives%20ATAR%20Units%203%20%26%204%20Student%20Book%20watermarked%20page%20proofs.pdf",
+      "sourcePath": "Human Biology/Year 12/Human Perspectives ATAR Units 3 & 4 Student Book watermarked page proofs.pdf",
+      "description": "Textbook · Uncorrected page proofs. 379 PDF pages. This uploaded copy is watermarked UNCORRECTED PAGE PROOFS and may contain errors or differ from the published edition.",
+      "isbn": "9780170449168",
+      "coverSource": "Uploaded PDF cover or first page"
+    },
+    {
+      "id": "human-biology-c57ccf018585",
+      "title": "Surfing WACE Human Biology — Unit 4: Human Variation and Evolution",
+      "author": "Kerri Humphreys",
+      "edition": "2017",
+      "publisher": "Science Press",
+      "format": "Study and practice book",
+      "subject": "Human Biology",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Human%20Biology/Year%2012/WACE%20Human%20Biology%20Surfing%20Unit%204.pdf",
+      "sourcePath": "Human Biology/Year 12/WACE Human Biology Surfing Unit 4.pdf",
+      "description": "Study and practice book. 116 PDF pages.",
+      "coverSource": "Uploaded PDF cover or first page"
+    },
+    {
+      "id": "human-biology-46444e22598f",
+      "title": "Surfing WACE Human Biology — Unit 3: Homeostasis and Disease",
+      "author": "Kerri Humphreys",
+      "edition": "2017",
+      "publisher": "Science Press",
+      "format": "Study and practice book",
+      "subject": "Human Biology",
+      "subjectGroup": "Science",
+      "years": [
+        12
+      ],
+      "added": "2026-10-27",
+      "url": "https://raw.githubusercontent.com/science-vault/textbook-library/main/Human%20Biology/Year%2012/WACE%20Unit%203%20Homeostasis%20%26%20Disease%20Surfing.pdf",
+      "sourcePath": "Human Biology/Year 12/WACE Unit 3 Homeostasis & Disease Surfing.pdf",
+      "description": "Study and practice book. 192 PDF pages.",
+      "coverSource": "Uploaded PDF cover or first page"
     }
   ]
 }
